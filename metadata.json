@@ -1,0 +1,6 @@
+{
+  "name": "Utilix - All-in-One Local Utility Platform",
+  "description": "14 browser-based utility tools including AI Website Generator, image editing, compression, PDF processing, QR generation, color utilities, code formatting, calculations, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
